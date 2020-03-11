@@ -10,5 +10,5 @@ Extract from Wikipedia:
 > An anime adaptation was produced by Sunrise as a seven-episode original video animation series and released between March 12, 2010 and June 6, 2014 on DVD and Blu-ray Disc. It was directed by Kazuhiro Furuhashi.
 
 ## Credits
-I do not own credit on the original show.
-This bot was created by following this tutorial on **BotWiki**: [Make a Twitter bot that tweets random images (with node.js)](https://botwiki.org/resource/tutorial/random-image-tweet/)
+- I do not own credit on the original show.
+- This bot was created by following this tutorial on **BotWiki**: [Make a Twitter bot that tweets random images (with node.js)](https://botwiki.org/resource/tutorial/random-image-tweet/)
