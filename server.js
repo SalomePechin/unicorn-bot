@@ -7,6 +7,6 @@ config = require(path.join(__dirname, 'config.js'));
 
 var T = new Twit(config);
 
-T.post('statuses/update', { status: 'Look, I am tweeting!' }, function(err, data, response) {
-	console.log(data)
-});
+function random_from_array(images){
+	return images[Math.floor(Math.random() * images.length)];
+}
