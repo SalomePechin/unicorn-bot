@@ -1,5 +1,5 @@
 # unicorn-bot
-A Node.js Twitter bot that tweets Mobile Suit Gundam Unicorn screenshots.
+A Node.js Twitter bot that tweets random Mobile Suit Gundam Unicorn screenshots.
 
 ![Gundam Unicorn Banner](/banner.jpg)
 
