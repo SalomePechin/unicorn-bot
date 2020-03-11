@@ -7,6 +7,6 @@ config = require(path.join(__dirname, 'config.js'));
 
 var T = new Twit(config);
 
-T.post('status/update', { status: 'Look, I am tweeting!' }, function(err, data, response) {
+T.post('statuses/update', { status: 'Look, I am tweeting!' }, function(err, data, response) {
 	console.log(data)
 });
